@@ -16,3 +16,7 @@ The source for the new website is here:
 Specifics relating to ongoing runs of STAT 545 at UBC are here:
 
 <https://stat545.stat.ubc.ca>
+
+---
+
+> **Created by Antono**
