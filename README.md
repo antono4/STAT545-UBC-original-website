@@ -1,1 +1,26 @@
-Last updated: 2026-10-10 07:38:53 WIB
+# STAT545-UBC-original-website
+
+
+
+## 📋 Overview
+
+This repository contains **607 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-10 08:01:10 WIB*
